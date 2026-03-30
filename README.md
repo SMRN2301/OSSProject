@@ -1,8 +1,8 @@
 # OSS Audit  Linux Kernel
 
-**Student Name:** Rudranarayan Pattnaik
+**Student Name:** Vaduguru Smaran Subramanyam Sharma
 
-**Roll Number:** 24BHI10020
+**Roll Number:** 24BCE10035
 
 **Course:** Open Source Software (NGMC)  
 
